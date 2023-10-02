@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$third_line"
+head -n 3 iacta | tail -n 1
