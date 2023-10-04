@@ -1,2 +1,2 @@
 I#!/bin/bash
-paste -d, - - | grep -o '[^,]*' 
+paste -d, - - | grep -o '[^,]*'
